@@ -1,4 +1,4 @@
-# Life's Infinity Loop Framework
+# Life Infinity Loop Framework
 
 ## The Five Domains
 
