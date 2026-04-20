@@ -1,4 +1,4 @@
-# Life's Infinity Loop Runner
+# Life Infinity Loop Runner
 
 Read life-infinity-loop-profile.md
 
