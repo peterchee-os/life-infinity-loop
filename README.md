@@ -1,4 +1,4 @@
-# Life's Infinity Loop
+# Life Infinity Loop
 
 **Recursive Self-Improvement System**
 
